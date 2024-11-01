@@ -43,7 +43,7 @@ done
 ```
 
 
-**Function Apps**
+Note for the **Function Apps** the used CLI commands are different
 
 For all the function apps under the subscription, it needs only a subscription Id. Users having access issues may not be able to get the desired results.
 ```
